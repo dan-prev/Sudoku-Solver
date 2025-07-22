@@ -4,7 +4,9 @@ The entire project is contained in a single file, sudoku_solver.py, which includ
 
 To get started, make sure Python is installed on your system. Tkinter is included with most standard Python distributions, so no additional setup is usually required. Clone the repository using:
 
-git clone https://github.com/dan-prev/Sudoku-Solver
+git clone 
+
+https://github.com/dan-prev/Sudoku-Solver
 
 Then navigate into the project folder and run:
 
